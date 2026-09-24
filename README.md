@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://2shraf.com/storage/branding/7jGyCcPpffRB8Us88lyTWznWaH9FGKo8lTgmbI3h.png" width="130" alt="Ashraf Eltayeb" />
+<img src="https://2shraf.com/storage/branding/CsCZGfZB6Rcg6Aq2ksJrcohpa8kR8j3vppx9GhoD.png" width="130" alt="Ashraf Eltayeb" />
 
 # Ashraf Eltayeb · أشرف الطيب
 
